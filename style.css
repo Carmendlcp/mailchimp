@@ -3,10 +3,15 @@
     
 }
 
+.columnaizq{
+    width: 18%;
+}
+
 img{
    float: left;
-   width: 18%;
-   padding: 2%;
+   width: 180px;
+   padding: 10%;
+   margin-right: 20px;
 }
 
 .columnadrch{
@@ -58,8 +63,34 @@ form{
 
 .password{
     margin-bottom: 30px;
+
 }
 .pass{
     font-weight: bolder;
 }
+
+.lista{
+    display: inline-block;
+    width: 10%;
+    padding: 10px 0 20px 0;
+   
+}
+
+ul{
+    display: inline-block;
+    padding-right: 1px
+}
+
+.listaizq{
+float: left;
+margin-right: 30px;
+
+}   
+
+.listadrch{
+float: left;
+position: absolute;
+
+}
+
 
